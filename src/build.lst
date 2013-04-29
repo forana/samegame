@@ -1,0 +1,19 @@
+# Cocoon framework
+thirdparty/CocoonJS.js
+thirdparty/CocoonJS_App.js
+
+# General utility
+thirdparty/underscore-1.4.4.js
+util/extdraw.js
+util/imagecache.js
+util/audiocache.js
+util/timer.js
+
+shim/polyfill.js
+
+game/constants.js
+
+game/core.js
+game/grid.js
+game/control.js
+game/shapes.js

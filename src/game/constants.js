@@ -1,0 +1,3 @@
+Constants = {
+	FONT: "px 'AldotheApache'"
+}
